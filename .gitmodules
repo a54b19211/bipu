@@ -1,6 +1,0 @@
-[submodule "hide"]
-	path = hide
-	url = https://github.com/a54b19211/hide-title.git
-[submodule "subproject"]
-	path = subproject
-	url = https://github.com/a54b19211/bipu.git
